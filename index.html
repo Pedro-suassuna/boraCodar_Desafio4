@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="widt        h=device-width, initial-scale=1.0"
+    />
+    <title>#boraCodar - Desafio 4 (Chat)</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://unpkg.com/phosphor-icons"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div id="top">
+        <div id="user-info">
+          <img
+            src="https://randomuser.me/api/portraits/women/50.jpg"
+            alt="Mulher asiática com gorro, óculos e cabelos pretos até o ombro"
+          />
+
+          <div id="user-status">
+            <strong>Cecilia Sassaki</strong>
+            <div class="status">Online</div>
+          </div>
+        </div>
+
+        <div id="close-chat">
+          <i class="ph-x"></i>
+        </div>
+      </div>
+
+      <div id="messages">
+        <div id="last-seen">Hoje 11:30</div>
+
+        <div class="messages">
+          <div class="message">
+            <div class="top">Cecilia - 11:30</div>
+            <div class="body">Tive uma ideia incrível para um projeto! 😍</div>
+          </div>
+          <div class="message you">
+            <div class="top">Você - 11:32</div>
+            <div class="body">Sério? Me conta mais.</div>
+          </div>
+
+          <div class="message">
+            <div class="top">Cecilia - 11:34</div>
+            <div class="body">
+              E se a gente fizesse um chat moderno e responsivo em apenas uma
+              semana?
+            </div>
+          </div>
+          <div class="message you">
+            <div class="top">Você - 11:36</div>
+            <div class="body"><strong>#boraCodar! 🚀</strong></div>
+          </div>
+          <div class="message">
+            <div class="top">Cecilia - 11:30</div>
+            <div class="body">Tive uma ideia incrível para um projeto! 😍</div>
+          </div>
+          <div class="message you">
+            <div class="top">Você - 11:32</div>
+            <div class="body">Sério? Me conta mais.</div>
+          </div>
+
+          <div class="message">
+            <div class="top">Cecilia - 11:34</div>
+            <div class="body">
+              E se a gente fizesse um chat moderno e responsivo em apenas uma
+              semana?
+            </div>
+          </div>
+          <div class="message you">
+            <div class="top">Você - 11:36</div>
+            <div class="body"><strong>#boraCodar! 🚀</strong></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="bottom">
+        <form>
+          <div class="input-wrapper">
+            <input type="text" placeholder="Digite sua mensagem" />
+            <button>
+              <i type="submit" class="ph-paper-plane-right"></i>
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
