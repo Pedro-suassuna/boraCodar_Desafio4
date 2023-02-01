@@ -14,8 +14,13 @@ Interligando pessoas pelo mundo inteiro! 🚀
   <a href="#-Progresso">Progresso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contato">Contato</a>
+  <a href="#-Conhecimentos adquiridos">Conhecimentos adquiridos</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Projeto">Projeto</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 </br>
@@ -78,7 +83,7 @@ Tecnologias envolvidas no projeto:
 
 </p>
 
-- Acesse o projeto finalizado aqui -> [🏆](https://pedro-suassuna.github.io/Projeto6_LandPage02_Explorer)
+- Acesse o projeto finalizado aqui -> [🏆](https://pedro-suassuna.github.io/boraCodar_Desafio4)
 
 <br>
 
