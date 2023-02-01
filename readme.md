@@ -14,7 +14,7 @@ Interligando pessoas pelo mundo inteiro! 🚀
   <a href="#-Progresso">Progresso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Conhecimentos adquiridos">Conhecimentos adquiridos</a>
+  <a href="#-Conhecimentos-adquiridos">Conhecimentos adquiridos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
