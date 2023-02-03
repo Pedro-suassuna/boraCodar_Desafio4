@@ -99,3 +99,4 @@ Acesse o Layout base para o projeto aqui -> [🎨](<https://www.figma.com/file/M
 ## 📖 Licença
 
 Esse projeto está sob a licença MIT.
+# Projeto7_LandPage03_Explorer-
